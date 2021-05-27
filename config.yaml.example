@@ -1,0 +1,7 @@
+discord:
+    client_token: "your token here"
+    channel_mapping:
+      carrier-id-replace-this: "channel name"
+
+elite:
+    cmdr_name: "your CMDR name used for the message (without CMDR)"
